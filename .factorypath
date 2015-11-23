@@ -1,0 +1,4 @@
+<factorypath>
+    <factorypathentry kind="WKSPJAR" id="/ProcessorUser/javapoet-1.4.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="WKSPJAR" id="/ProcessorUser/ProcessorProvider.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
